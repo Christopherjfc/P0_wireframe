@@ -206,7 +206,7 @@ le dará a Iniciar sesion. Este apartado le llevará a la pestaña de **Login** 
 contraseña le dará a ¿Olvidaste tu contraseña? y le llevará a la pestaña de **Recuperar contraseña** donde el usuario tendrá que introducir su nombre o email vinculados a la cuenta existente.
 
 <div align="center">
-	<img src="Autenticacion_DAW.jpg" alt="imagen_autenticacion" width="250"/>
+	<img src="Autenticacion_DAW.JPG" alt="imagen_autenticacion" width="250"/>
 </div>
 
 
@@ -216,7 +216,7 @@ Cuando el usuario entre a la página de inicio verá un carrusel de imagenes don
 Seguidamente estarán los productos mas destacados con sus descripciones respectivas. Finalmente habrá un enlace visible para el administrador para que pueda añadir nuevos productos.
 
 <div align="center">
-        <img src="PaginaInicio_DAW.jpg" alt="imagen_PaginaInicio" width="250"/>
+        <img src="PaginaInicio_DAW.JPG" alt="imagen_PaginaInicio" width="250"/>
 </div>
 
 
@@ -237,7 +237,7 @@ el precio de la guitarra y podrá seleccionar el color que haya disponible. Cuan
 llamado información donde estará detallado toda la información sobre la guitarra. Finalmente le aparecerá unas reseñas con valoraciones puestas por compradores, calificando el producto
 
 <div align="center">
-        <img src="DetallesProducto_DAW.jpg" alt="imagen_DetallesProducto" width="250"/>
+        <img src="DetallesProducto_DAW.JPG" alt="imagen_DetallesProducto" width="250"/>
 </div>
 
 
@@ -248,7 +248,7 @@ Una vez haya seleccionado la cantidad le dará al botón de **Tramitar Pedido**,
 **Finalizar pedido**
 
 <div align="center">
-        <img src="CestaCompra_DAW.jpg" alt="imagen_CestaCompra" width="250"/>
+        <img src="CestaCompra_DAW.JPG" alt="imagen_CestaCompra" width="250"/>
 </div>
 
 
@@ -258,6 +258,6 @@ Cuando el usuario acceda a este apartado le aparecerá los articulos mas recient
 donde habran noticias relacionadas sobre las actualidades de todo tipo de guitarras etc...
 
 <div align="center">
-        <img src="BlogNoticias_DAW.jpg" alt="imagen_BlogNoticias" width="250"/>
+        <img src="BlogNoticias_DAW.JPG" alt="imagen_BlogNoticias" width="250"/>
 </div>
 
